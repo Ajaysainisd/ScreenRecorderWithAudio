@@ -1,0 +1,16 @@
+PODS:
+  - ScreenRecorderWithAudio (0.1.0)
+
+DEPENDENCIES:
+  - ScreenRecorderWithAudio (from `../`)
+
+EXTERNAL SOURCES:
+  ScreenRecorderWithAudio:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ScreenRecorderWithAudio: 8609105b2b40e51713de13b7c92f6fef67305e1d
+
+PODFILE CHECKSUM: c6534988e488be9fcaaf9eb7bbcdfd7041039189
+
+COCOAPODS: 1.7.0.rc.1

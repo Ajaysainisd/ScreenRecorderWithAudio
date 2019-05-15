@@ -1,0 +1,22 @@
+{
+  "name": "ScreenRecorderWithAudio",
+  "version": "0.1.0",
+  "summary": "A short description of ScreenRecorderWithAudio.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Ajaysainisd/ScreenRecorderWithAudio",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ajaysainisd": "ajaysainisd@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Ajaysainisd/ScreenRecorderWithAudio.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ScreenRecorderWithAudio/Classes/**/*"
+}

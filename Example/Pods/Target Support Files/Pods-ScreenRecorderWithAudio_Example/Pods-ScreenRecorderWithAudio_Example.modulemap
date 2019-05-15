@@ -1,0 +1,6 @@
+framework module Pods_ScreenRecorderWithAudio_Example {
+  umbrella header "Pods-ScreenRecorderWithAudio_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
