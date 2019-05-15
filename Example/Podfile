@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ScreenRecorderWithAudio_Example' do
+  pod 'ScreenRecorderWithAudio', :path => '../'
+
+  target 'ScreenRecorderWithAudio_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
