@@ -20,12 +20,13 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
     Record your iOS screen with audio from microphone and audio playing in device itself.
                        DESC
+  s.swift_version    = '4.2'
 
   s.homepage         = 'https://github.com/Ajaysainisd/ScreenRecorderWithAudio'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Ajaysainisd' => 'ajaysainisd@gmail.com' }
-  s.source           = { ':git => 'https://github.com/Ajaysainisd/ScreenRecorderWithAudio.git', :tag => s.version.to_s' }
+  s.source           = { :git => 'https://github.com/Ajaysainisd/ScreenRecorderWithAudio.git', :tag => 's.version.to_s' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
@@ -37,6 +38,6 @@ Pod::Spec.new do |s|
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit', 'ReplayKit','Foundation'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
