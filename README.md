@@ -1,6 +1,6 @@
 # ScreenRecorderWithAudio
 
-This is a wrapper for screen recording with audio on iOS with ReplayKit2. 
+This is a wrapper for screen recording with audio on iOS with ReplayKit2 using Swift. 
 </br>
 
 [![CI Status](https://img.shields.io/travis/Ajaysainisd/ScreenRecorderWithAudio.svg?style=flat)](https://travis-ci.org/Ajaysainisd/ScreenRecorderWithAudio)
