@@ -1,4 +1,4 @@
-# ScreenRecorderWithAudio
+# Screen Recorder With Audio
 
 This is a wrapper for screen recording with audio on iOS with ReplayKit2 using Swift. 
 </br>
