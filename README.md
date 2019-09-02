@@ -25,7 +25,7 @@ pod 'ScreenRecorderWithAudio'
 
 ## Usage
 
-Create a variable of screenRecorder Coordinator
+Create a object of screenRecorder Coordinator
 
 ```
 let screenRecorder = ScreenRecordCoordinator()
